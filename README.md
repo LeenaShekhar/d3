@@ -3,6 +3,7 @@
 ## Initial set-up
 
 You can get your local server running by fllowing the below steps (root access might be needed)
+
 1. apt-get install nodejs
 2. npm install -g http-server or apt-get install npm
 3. npm install forever -g
@@ -28,8 +29,9 @@ CSS- It is used to style your web page-- aesthetics: color, fonts, margins etc.
 
 JavaScript- Dynamic scripting language so that you can instruct the browser to do cool things without reloading the entire page.
 
+SVG- THis is a text based image format--- you can specify image using tags like the ones in HTML. This is what ou use when you want to have an image, which neer loses quality. 
+
 Developer tools- I would suggest to use Chrome. OPen your HTML page in your browser, right click, and choose Inspct Element-- you will see many cool section including the current state of your DOM. Explore it-- console is going to be your buddy!
 
-SVG- THis is a text based image format--- you can specify image using tags like the ones in HTML. This is what ou use when you want to have an image, which neer loses quality. 
 
 
