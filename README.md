@@ -43,7 +43,7 @@ Developer tools- I would suggest to use Chrome. OPen your HTML page in your brow
 	1. Data- this could be an array, csv or tsv files, JSON. Type conversion is a good idea to keep in mind since JavaScript may not automatically do it for you.
 	2. Selection of DOM elements- Decide the element you want to associate our data to.
 
-When D3 binds data to an elemnt, that data does not exits in the DOM, rather in the memory as a __Data__ attribute of that element.
+When D3 binds data to an elemnt, that data does not exits in the DOM, rather in the memory as a __data__ attribute of that element.
 
 
 
