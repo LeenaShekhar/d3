@@ -45,6 +45,22 @@ Developer tools- I would suggest to use Chrome. OPen your HTML page in your brow
 
 When D3 binds data to an elemnt, that data does not exits in the DOM, rather in the memory as a __data__ attribute of that element. An anonymous function can be added, which accepts d as input-- data() method nsures that d is set to the corresponding value in the original dataset.
 
+### SVG- more reliable, visually consistent, and faster across different browsers.
+
+1. Before drawing anything create an SVG element-- at a minimum specify width and height.
+2. Apply styles to make it interesting!
+3. There are no layers in SVG, and no real concept of depth-- the pixel paint that is applied later obscures any earlies paints.
+4. Just like HTML elements, SVG elements exist in the DOM.
+
+
+
+
+
+
+
+
+
+
 
 
 
