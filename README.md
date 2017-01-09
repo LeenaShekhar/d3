@@ -52,6 +52,20 @@ When D3 binds data to an elemnt, that data does not exits in the DOM, rather in 
 3. There are no layers in SVG, and no real concept of depth-- the pixel paint that is applied later obscures any earlies paints.
 4. Just like HTML elements, SVG elements exist in the DOM.
 
+### Datastructures and JavaScript
+
+1. Variables-- Loosely typed language. We can declare and name variables even before knowing what type of data they will store. Variables can store functions. 
+2. Arrays-- Very handy. Group of same typeof data.
+3. Objects-- For complex datasets, you want to put your data into objects first for ovious reasons.
+4. JSON- Property-vale pairs. JavaScript works well with it- parsing is easy and fast.
+5. GeoJSON-- Formal syntax for storing geodata.
+
+
+
+
+
+
+
 
 
 
